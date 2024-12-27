@@ -29,7 +29,7 @@ Tempat untuk melaporkan bug, mengajukan fitur baru, atau berdiskusi tentang proy
 File dokumentasi yang memberikan informasi dasar tentang proyek. Biasanya berisi deskripsi proyek, cara instalasi, dan cara penggunaan.
 
 11. GitHub Actions
-Fitur otomatisasi yang memungkinkan pengembang menjalankan skrip atau proses tertentu saat ada perubahan pada repository, seperti pengujian atau build otomatis.
+Fitur otomatisasi memungkinkan pengembang menjalankan skrip atau proses tertentu saat ada perubahan pada repository, seperti pengujian atau build otomatis.
 
 12. Star
 Fitur untuk menandai repository favorit. Memberi star menunjukkan apresiasi atau ketertarikan pada suatu proyek.
