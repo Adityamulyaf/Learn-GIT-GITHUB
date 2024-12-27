@@ -1,0 +1,41 @@
+1. 2002-2005: The Beginning
+- The Linux kernel project initially used BitKeeper, a proprietary version control system
+- BitKeeper provided free use to the Linux development community
+- In 2005, the relationship between Linux community and BitKeeper broke down when free use was withdrawn
+
+2. Birth of Git (2005)
+- Created by Linus Torvalds (creator of Linux)
+- Development started in April 2005
+- Main goals:
+  * Speed
+  * Simple design
+  * Strong support for non-linear development
+  * Fully distributed
+  * Able to handle large projects like Linux efficiently
+
+3. Development & Growth
+- Initial development took only a few days
+- By June 2005, Linux kernel was managed using Git
+- Junio Hamano became the lead maintainer in July 2005
+- First version (0.99.9n) released in July 2005
+
+4. Rise to Popularity (2007-2010)
+- Many major projects began adopting Git
+- GitHub launched in 2008, making Git more accessible
+- Growing popularity in open-source communities
+- Companies started migrating to Git from SVN and other VCS
+
+5. Modern Era (2010-Present)
+- Became the most widely used version control system
+- Standard for software development
+- Major platforms supporting Git:
+  * GitHub
+  * GitLab
+  * Bitbucket
+- Used by both small projects and large enterprises
+
+6. Key Innovations
+- Distributed version control
+- Branching and merging model
+- Speed and efficiency
+- Data integrity through SHA-1 hashes
