@@ -1,3 +1,5 @@
+The HIstory of Git
+
 1. 2002-2005: The Beginning
 - The Linux kernel project initially used BitKeeper, a proprietary version control system
 - BitKeeper provided free use to the Linux development community
@@ -39,3 +41,58 @@
 - Branching and merging model
 - Speed and efficiency
 - Data integrity through SHA-1 hashes
+
+The history of GitHub:
+
+1. Foundation (2008)
+- Founded by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett
+- Launched in April 2008
+- Built as a platform to simplify sharing Git repositories
+- Initial focus on social coding and collaboration
+
+2. Early Growth (2009-2012)
+- Reached 1 million repositories in 2010
+- Introduced key features:
+  * Pull Requests
+  * GitHub Pages
+  * Organizations
+  * Issue Tracking
+- Became popular among open-source projects
+
+3. Major Developments (2012-2017)
+- Received $100 million investment from Andreessen Horowitz in 2012
+- Reached 10 million repositories in 2013
+- Introduced:
+  * GitHub Desktop
+  * GitHub Enterprise
+  * GitHub Education
+  * GitHub Actions (beta)
+
+4. Microsoft Acquisition (2018)
+- Acquired by Microsoft for $7.5 billion
+- Satya Nadella emphasized GitHub's independence
+- Nat Friedman became CEO
+- Free private repositories introduced
+
+5. Recent Developments (2019-Present)
+- GitHub Actions generally available
+- Introduction of GitHub Codespaces
+- GitHub Copilot launched
+- GitHub Mobile app released
+- Arctic Code Vault program
+- Reached over 100 million developers
+- Free features expanded
+
+6. Major Features Added
+- GitHub Packages
+- GitHub Security features
+- GitHub Discussions
+- GitHub Sponsors
+- Advanced collaboration tools
+- Improved CI/CD capabilities
+
+7. Impact on Software Development
+- Became world's largest code hosting platform
+- Standard for open-source project hosting
+- Changed how developers collaborate
+- Influenced modern software development practices
