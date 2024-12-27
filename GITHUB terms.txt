@@ -34,8 +34,8 @@ Fitur otomatisasi memungkinkan pengembang menjalankan skrip atau proses tertentu
 12. Star
 Fitur untuk menandai repository favorit. Memberi star menunjukkan apresiasi atau ketertarikan pada suatu proyek.
 
-13. Watch
+12. Watch
 Mengikuti perkembangan repository. Dengan watch, kamu akan menerima notifikasi saat ada perubahan atau aktivitas baru di repository tersebut.
 
-14. Merge
+13. Merge
 Menggabungkan perubahan dari satu branch ke branch lain. Biasanya dilakukan setelah pull request disetujui.
