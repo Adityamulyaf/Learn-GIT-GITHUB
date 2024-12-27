@@ -1,0 +1,23 @@
+1. Repository (Repo)
+Tempat untuk menyimpan semua file proyek, termasuk kode sumber, dokumen, dan riwayat perubahan.
+
+2. Commit
+Snapshot atau catatan perubahan pada file yang disimpan di repository. Commit memiliki pesan (commit message) untuk menjelaskan perubahan yang dibuat.
+
+3. Branch
+Cabang dalam repository yang memungkinkan pengembangan proyek secara paralel tanpa mengganggu kode utama (branch default biasanya bernama main).
+
+4. Pull Request (PR)
+Permintaan untuk menggabungkan perubahan dari satu branch ke branch lain. Biasanya digunakan untuk kolaborasi antar pengembang.
+
+5. Fork
+Salinan repository milik orang lain ke akun kita. Digunakan untuk membuat perubahan tanpa memengaruhi repository aslinya.
+
+6. Clone
+Menduplikasi repository GitHub ke komputer lokal menggunakan perintah git clone. Setelah itu, kita bisa mengedit file di komputer lokal.
+
+7. Push
+Mengirim perubahan yang telah di-commit dari komputer lokal ke repository di GitHub.
+
+8. Pull
+Mengambil perubahan terbaru dari repository GitHub ke komputer lokal untuk memastikan semua file tetap sinkron.
